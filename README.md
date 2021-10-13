@@ -12,5 +12,7 @@ The program declares the pins that are to be used and their input or output role
 and in the loop section, the board first reads the current value of the input pins, and if any button press is detected through
 this, the board sends the sounding current signals to the speaker attached to the board.
 
+Connect computer to the circuit-arduino-board by cable, and use Arduino IDE to upload the code onto the board.
+
 The following article describes the circuit in detail :
 https://techieartisans.com/2021/10/13/get-started-on-electronics-and-arduino-easy-3-button-sound-signaller-circuit/
